@@ -1,0 +1,7 @@
+torch>=2.5
+transformers>=4.51,<5
+datasets>=3,<5
+peft>=0.15,<1
+trl==0.18.2
+matplotlib>=3.9
+wandb>=0.19

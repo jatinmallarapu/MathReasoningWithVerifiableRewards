@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.env*
+!.env.example
+/data/
+/runs/
+/models/
+/wandb/
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+*.mp4
+*.gif
